@@ -1,6 +1,4 @@
-# Dashboard_project
-
-# Análisis de Monólogos en Madrid - Proyecto de Scraping y Visualización de Datos
+# Dashboard_project: Análisis de Monólogos en Madrid - Proyecto de Scraping y Visualización de Datos
 
 Este proyecto se centra en el análisis de datos de espectáculos de monólogos en Madrid. Los datos fueron recopilados mediante técnicas de web scraping desde el sitio web de Atrápalo, y se realizaron análisis y visualizaciones utilizando la herramienta Tableau.
 
