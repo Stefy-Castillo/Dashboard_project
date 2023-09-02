@@ -34,7 +34,7 @@ El objetivo principal de este proyecto es analizar y visualizar datos relacionad
 
 ## Conclusiones
 
-![Dashboard análisis Locales]((https://github.com/Stefy-Castillo/Dashboard_project/blob/main/04_imagenes/01_dashboard_analisis_locales.JPG))
+![Dashboard análisis Locales](https://github.com/Stefy-Castillo/Dashboard_project/blob/main/04_imagenes/01_dashboard_analisis_locales.JPG)
 
 [Dashboard de Locales en Tableau](https://public.tableau.com/app/profile/estefania.castillo3331/viz/Analisis_locales_atrapalo/Mapa_locales?publish=yes)
 
