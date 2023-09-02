@@ -1,5 +1,32 @@
 # Dashboard_project: Análisis de Monólogos en Madrid - Proyecto de Scraping y Visualización de Datos
+
 Este proyecto se centra en el análisis de datos de espectáculos de monólogos en Madrid. Los datos fueron recopilados mediante técnicas de web scraping desde el sitio web de Atrápalo, y se realizaron análisis y visualizaciones utilizando la herramienta Tableau.
+
+## Tipos de Locales
+
+En Madrid, los espectáculos de monólogos se llevan a cabo en una variedad de locales, cada uno con sus propias características. A continuación, se describen los principales tipos de locales:
+
+- **Club de Comedia:** Estos locales se especializan en ofrecer espectáculos de comedia en vivo. Son lugares dedicados exclusivamente a la comedia y suelen albergar actuaciones de comediantes profesionales.
+
+- **Bar de Espectáculos:** Los bares de espectáculos son establecimientos que ofrecen una variedad de espectáculos en vivo, que pueden incluir comedia, música, magia y más. Aunque no se centran exclusivamente en la comedia, a menudo presentan espectáculos humorísticos.
+
+- **Espacios Variados:** Estos son lugares multiusos que pueden albergar una variedad de eventos, desde conciertos hasta espectáculos de comedia. Pueden ser más versátiles en términos de programación.
+
+- **Mini Teatro:** Los mini teatros son espacios más pequeños con un aforo limitado, generalmente de no más de 50 personas. Suelen ofrecer experiencias más íntimas y cercanas con los artistas.
+
+- **Teatros:** Los teatros son establecimientos más grandes y formales que albergan producciones teatrales, conciertos y espectáculos de comedia. Tienen un aforo considerable y ofrecen una experiencia de entretenimiento más tradicional.
+
+## Tipos de Show
+
+Los espectáculos de monólogos pueden variar en cuanto a su formato y contenido. A continuación, se describen algunos de los tipos de show comunes:
+
+- **Show:** Los shows de monólogos son actuaciones humorísticas en las que un comediante presenta una serie de monólogos y chistes ante un público en vivo. Este formato es típico de los clubes de comedia y otros locales de entretenimiento en vivo.
+
+- **Open Mic:** Los open mics son eventos en los que se invita a comediantes aficionados y aspirantes a subir al escenario y probar su material humorístico ante una audiencia en vivo. Es una oportunidad para que nuevos talentos se den a conocer.
+
+- **Podcast:** Algunos espectáculos de monólogos se graban como podcasts en vivo. Los comediantes comparten anécdotas y bromas, y la audiencia puede escuchar y participar en el evento.
+
+- **Concurso:** Los concursos de monólogos reúnen a varios comediantes que compiten para ganar el favor del público y un jurado. Cada comediante presenta su mejor material humorístico en un intento de destacar.
 
 ## Descripción del Proyecto
 
@@ -22,3 +49,26 @@ Se realizó un análisis específico del local 'Beer Station', un club de comedi
 - La evolución de la nota a lo largo del tiempo muestra una tendencia a la baja desde marzo de 2021, después de un período de pausa debido a la pandemia. La calificación se ha mantenido en un rango estrecho entre 9.03 y 8.97.
 - La puntuación media por tipo de público revela que la interpretación es el aspecto mejor valorado, mientras que la puesta en escena recibe las calificaciones más bajas, especialmente por aquellos que asisten en pareja. Esto sugiere que la calidad de la sala puede estar influyendo en las calificaciones.
 - Un gráfico circular (de donut) muestra la distribución del público, donde el 48.82% asiste en pareja, el 36.56% con amigos, el 8.80% en familia y el 5.82% asiste solo. Esta información es relevante para comprender la audiencia de 'Beer Station'.
+
+## Conceptos Clave
+
+- **Stand-Up Comedy:** El stand-up comedy es un género de comedia en vivo en el que un comediante se presenta solo en un escenario y se comunica con el público a través de monólogos humorísticos. Los comediantes suelen abordar temas de la vida cotidiana, la cultura popular y las experiencias personales de una manera humorística.
+
+- **Open Mic:** Un open mic es un evento en el que se invita a cualquier persona, incluidos comediantes aficionados, a subir al escenario y presentar su material cómico. Los open mics son espacios donde los comediantes pueden probar nuevas bromas y perfeccionar su actuación ante una audiencia en vivo.
+
+## Cómo Replicar el Análisis
+
+Si deseas replicar este análisis o explorar más detalles, sigue estos pasos:
+
+1. Descarga los datos de los espectáculos de monólogos en Madrid desde el sitio web de Atrápalo o un conjunto de datos similar.
+2. Utiliza Tableau para crear visualizaciones y llevar a cabo análisis exploratorios.
+3. Personaliza tus visualizaciones según tus necesidades y preferencias.
+4. ¡Explora y extrae conclusiones interesantes de tus datos!
+
+## Contribución
+
+Si deseas contribuir a este proyecto o realizar mejoras en las visualizaciones, ¡tus contribuciones son bienvenidas! Puedes abrir problemas, solicitar nuevas características o enviar propuestas de mejora.
+
+## Licencia
+
+Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
