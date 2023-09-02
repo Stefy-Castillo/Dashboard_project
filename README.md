@@ -34,6 +34,9 @@ El objetivo principal de este proyecto es analizar y visualizar datos relacionad
 
 ## Conclusiones
 
+![Dashboard de Locales](04_imagenes/01_dashboard_analisis_locales.png)
+[Dashboard de Locales en Tableau](https://public.tableau.com/app/profile/estefania.castillo3331/viz/Analisis_locales_atrapalo/Mapa_locales?publish=yes)
+
 ### Número de Shows por Local
 
 Uno de los hallazgos más notables de este análisis es la distribución del número de shows por tipo de local. Los clubes de comedia destacan por tener una mayor cantidad de shows y open mics en comparación con otros tipos de locales, como teatros o bares de espectáculos. Esta información podría ser valiosa para quienes buscan una amplia variedad de espectáculos de monólogos.
@@ -42,33 +45,31 @@ Uno de los hallazgos más notables de este análisis es la distribución del nú
 
 Otro punto de interés es la mediana de los precios por tipo de espectáculo y local. Se observa que los open mics tienden a ser más económicos, lo que puede estar relacionado con la naturaleza de estos eventos, donde no se garantiza la calidad de las actuaciones. Por otro lado, los teatros suelen ofrecer espectáculos a precios más altos, lo que puede reflejar la inversión en producción y la calidad esperada por los asistentes.
 
+![Dashboard de Beer Station](04_imagenes/02_dashboard_analisis_beerstation.png)
+[Dashboard de Beer Station en Tableau](https://public.tableau.com/app/profile/estefania.castillo3331/viz/Beerstationdefinitivo/Dashboardanalisisbeerstation?publish=yes)
+
+
 ### Análisis Detallado de 'Beer Station'
 
 Se realizó un análisis específico del local 'Beer Station', un club de comedia en Madrid. Las principales conclusiones de este análisis incluyen:
 
 - La evolución de la nota a lo largo del tiempo muestra una tendencia a la baja desde marzo de 2021, después de un período de pausa debido a la pandemia. La calificación se ha mantenido en un rango estrecho entre 9.03 y 8.97.
 - La puntuación media por tipo de público revela que la interpretación es el aspecto mejor valorado, mientras que la puesta en escena recibe las calificaciones más bajas, especialmente por aquellos que asisten en pareja. Esto sugiere que la calidad de la sala puede estar influyendo en las calificaciones.
-- Un gráfico circular (de donut) muestra la distribución del público, donde el 48.82% asiste en pareja, el 36.56% con amigos, el 8.80% en familia y el 5.82% asiste solo. Esta información es relevante para comprender la audiencia de 'Beer Station'.
+- Un gráfico circular muestra la distribución del público, donde el 48.82% asiste en pareja, el 36.56% con amigos, el 8.80% en familia y el 5.82% asiste solo. Esta información es relevante para comprender la audiencia de 'Beer Station'.
 
-## Conceptos Clave
+## Next Steps
 
-- **Stand-Up Comedy:** El stand-up comedy es un género de comedia en vivo en el que un comediante se presenta solo en un escenario y se comunica con el público a través de monólogos humorísticos. Los comediantes suelen abordar temas de la vida cotidiana, la cultura popular y las experiencias personales de una manera humorística.
+Este proyecto proporciona una visión inicial de los espectáculos de monólogos en Madrid, centrándose en el local 'Beer Station'. Sin embargo, hay oportunidades adicionales para expandir y profundizar en este análisis:
 
-- **Open Mic:** Un open mic es un evento en el que se invita a cualquier persona, incluidos comediantes aficionados, a subir al escenario y presentar su material cómico. Los open mics son espacios donde los comediantes pueden probar nuevas bromas y perfeccionar su actuación ante una audiencia en vivo.
+1. **Análisis de Otros Locales:** Se puede realizar un análisis similar para otros locales que ofrecen espectáculos de monólogos en Madrid. Esto permitirá determinar si las conclusiones obtenidas para 'Beer Station' son exclusivas de ese local o si se aplican a otros lugares.
 
-## Cómo Replicar el Análisis
+2. **Comportamiento del Público:** Explorar cómo varía el comportamiento del público en diferentes locales. ¿Los espectadores tienden a dar calificaciones más altas o más bajas en ciertos tipos de locales? ¿El tipo de público (en pareja, con amigos, en familia, solo) influye en sus calificaciones?
 
-Si deseas replicar este análisis o explorar más detalles, sigue estos pasos:
+3. **Análisis Temporal Detallado:** Profundizar en el análisis temporal y ver cómo los eventos de la pandemia han afectado a los espectáculos de monólogos en Madrid. ¿Se ha producido un cambio en la calificación promedio y el número de opiniones a lo largo del tiempo?
 
-1. Descarga los datos de los espectáculos de monólogos en Madrid desde el sitio web de Atrápalo o un conjunto de datos similar.
-2. Utiliza Tableau para crear visualizaciones y llevar a cabo análisis exploratorios.
-3. Personaliza tus visualizaciones según tus necesidades y preferencias.
-4. ¡Explora y extrae conclusiones interesantes de tus datos!
+4. **Comparación de Precios:** Realizar una comparación más detallada de los precios entre los diferentes tipos de locales y tipos de espectáculos. ¿Existen diferencias significativas en los precios que puedan explicarse por factores como la calidad del espectáculo o el tipo de audiencia?
 
-## Contribución
+5. **Evaluación de la Competencia:** Analizar cómo se posicionan los diferentes locales en relación con su competencia. Esto podría incluir la comparación de calificaciones y número de opiniones con locales similares en Madrid.
 
-Si deseas contribuir a este proyecto o realizar mejoras en las visualizaciones, ¡tus contribuciones son bienvenidas! Puedes abrir problemas, solicitar nuevas características o enviar propuestas de mejora.
+Estos "Next Steps" pueden ayudar a obtener una comprensión más completa de la escena de los espectáculos de monólogos en Madrid y proporcionar información valiosa para los amantes de la comedia, los artistas y los propietarios de locales. Además, podrían ofrecer ideas para futuras estrategias y decisiones de negocio.
 
-## Licencia
-
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
