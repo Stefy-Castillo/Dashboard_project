@@ -34,7 +34,7 @@ El objetivo principal de este proyecto es analizar y visualizar datos relacionad
 
 ## Conclusiones
 
-![Dashboard análisis Locales](/04_imagenes/01_dashboard_analisis_locales.jpg)
+![Dashboard análisis Locales]((https://github.com/Stefy-Castillo/Dashboard_project/blob/main/04_imagenes/01_dashboard_analisis_locales.JPG))
 
 [Dashboard de Locales en Tableau](https://public.tableau.com/app/profile/estefania.castillo3331/viz/Analisis_locales_atrapalo/Mapa_locales?publish=yes)
 
@@ -46,7 +46,7 @@ Uno de los hallazgos más notables de este análisis es la distribución del nú
 
 Otro punto de interés es la mediana de los precios por tipo de espectáculo y local. Se observa que los open mics tienden a ser más económicos, lo que puede estar relacionado con la naturaleza de estos eventos, donde no se garantiza la calidad de las actuaciones. Por otro lado, los teatros suelen ofrecer espectáculos a precios más altos, lo que puede reflejar la inversión en producción y la calidad esperada por los asistentes.
 
-![Dashboard análisis Beerstation](/04_imagenes/02_dashboard_analisis_beerstation.jpg)
+![Dashboard análisis Beerstation](https://github.com/Stefy-Castillo/Dashboard_project/blob/main/04_imagenes/02_dashboar_analisis_beerstation.JPG)
 
 [Dashboard de Beer Station en Tableau](https://public.tableau.com/app/profile/estefania.castillo3331/viz/Beerstationdefinitivo/Dashboardanalisisbeerstation?publish=yes)
 
